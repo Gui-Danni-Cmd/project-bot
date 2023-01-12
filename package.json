@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Bot de moderação",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "node index.js",
     "test": ""
@@ -14,6 +15,7 @@
   "author": "Guilherme Dannilo Maciel Coelho",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.7.1"
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
   }
 }
