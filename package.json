@@ -4,12 +4,16 @@
   "description": "Bot de moderação",
   "main": "index.js",
   "scripts": {
-    "test": "run dev"
+    "dev": "node index.js",
+    "test": ""
   },
   "repository": {
     "type": "git",
     "url": "bot-name.js"
   },
   "author": "Guilherme Dannilo Maciel Coelho",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
 }
