@@ -1,0 +1,15 @@
+{
+  "name": "documents",
+  "version": "1.0.0",
+  "description": "Bot de moderação",
+  "main": "index.js",
+  "scripts": {
+    "test": "run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bot-name.js"
+  },
+  "author": "Guilherme Dannilo Maciel Coelho",
+  "license": "MIT"
+}
